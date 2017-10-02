@@ -1,9 +1,9 @@
 {
-  "name": "pen-paper-coffee-syntax",
+  "name": "pen-paper-coffee-syntax-color",
   "theme": "syntax",
   "version": "0.14.9",
   "description": "A syntax theme specifically for writing papers in markdown. Featuring a paper like color scheme and increased font-size for headings",
-  "repository": "https://github.com/nylki/pen-paper-coffee-syntax",
+  "repository": "https://github.com/Aventura5/pen-paper-coffee-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
